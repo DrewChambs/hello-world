@@ -1,5 +1,3 @@
 # hello-world
 A first foray into Git
-
-
-Drew moving ahead in the game. Time to use that IT degree.
+Changing again. Test phase for adding JS, CSS, HTML.
